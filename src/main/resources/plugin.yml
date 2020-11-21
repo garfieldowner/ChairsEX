@@ -1,0 +1,6 @@
+name: ChairsEX
+version: ${project.version}
+main: com.hayes.chairsex.ChairsEX
+api-version: 1.16
+authors: [ Hayes ]
+description: Simple chairs plugin
