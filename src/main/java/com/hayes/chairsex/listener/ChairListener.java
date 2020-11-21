@@ -17,7 +17,7 @@ public class ChairListener implements Listener {
 
     private ChairsEX mainClass;
 
-    public void ChairListener(ChairsEX ChairsMain) {
+    public ChairListener(ChairsEX ChairsMain) {
         this.mainClass = ChairsMain;
     }
 
